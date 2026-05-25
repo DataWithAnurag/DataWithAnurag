@@ -1,6 +1,6 @@
 # 💫 Hi there! I'm Anurag Sharma
 
-Aspiring Data Analyst at Petals Infotech | Skilled in SQL, Python, Power BI & Tableau | Passionate about turning data into actionable insights.
+Aspiring Software Engineer | Proficient in Python, SQL & Data Structures | Passionate about building scalable applications and efficient backend solutions.
 
 📬 Email Me: anurag.sharma3967@gmail.com
 <br><br>
