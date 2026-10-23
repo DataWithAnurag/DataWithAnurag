@@ -1,6 +1,6 @@
 # 💫 Hi there! I'm Anurag Sharma
 
-Aspiring Software Engineer | Proficient in Python, SQL & Data Structures | Passionate about building scalable applications and efficient backend solutions.
+Aspiring Software Developer | Proficient in Python, SQL & Data Structures | Passionate about building scalable applications and efficient backend solutions.
 
 📬 Email Me: anurag.sharma3967@gmail.com
 <br><br>
